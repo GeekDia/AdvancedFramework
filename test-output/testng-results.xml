@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="6" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="41259" started-at="2020-10-11T14:17:51 CEST" finished-at="2020-10-11T14:18:32 CEST">
+    <groups>
+    </groups>
+    <test name="Regression Suite" duration-ms="41108" started-at="2020-10-11T14:17:51 CEST" finished-at="2020-10-11T14:18:32 CEST">
+      <class name="fr.ag2.testcases.TestCase2">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:fr.ag2.testcases.TestCase2@10163d6]" name="openBrowser" is-config="true" duration-ms="10435" started-at="2020-10-11T14:18:13 CEST" finished-at="2020-10-11T14:18:24 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:fr.ag2.testcases.TestCase2@10163d6]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-11T14:18:24 CEST" finished-at="2020-10-11T14:18:24 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void fr.ag2.testcases.TestCase2.loginTest2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTest2()[pri:0, instance:fr.ag2.testcases.TestCase2@10163d6]" name="loginTest2" duration-ms="7161" started-at="2020-10-11T14:18:24 CEST" finished-at="2020-10-11T14:18:31 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:fr.ag2.testcases.TestCase2@10163d6]" name="tearDown" is-config="true" duration-ms="999" started-at="2020-10-11T14:18:31 CEST" finished-at="2020-10-11T14:18:32 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- fr.ag2.testcases.TestCase2 -->
+      <class name="fr.ag2.testcases.TestCase">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:fr.ag2.testcases.TestCase@49912c99]" name="openBrowser" is-config="true" duration-ms="11664" started-at="2020-10-11T14:17:51 CEST" finished-at="2020-10-11T14:18:02 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:fr.ag2.testcases.TestCase@49912c99]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-11T14:18:02 CEST" finished-at="2020-10-11T14:18:02 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void fr.ag2.testcases.TestCase.loginTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:fr.ag2.testcases.TestCase@49912c99]" name="loginTest" duration-ms="9765" started-at="2020-10-11T14:18:02 CEST" finished-at="2020-10-11T14:18:12 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:fr.ag2.testcases.TestCase@49912c99]" name="tearDown" is-config="true" duration-ms="1027" started-at="2020-10-11T14:18:12 CEST" finished-at="2020-10-11T14:18:13 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- fr.ag2.testcases.TestCase -->
+    </test> <!-- Regression Suite -->
+    <test name="End to end suite" duration-ms="41259" started-at="2020-10-11T14:17:51 CEST" finished-at="2020-10-11T14:18:32 CEST">
+      <class name="fr.ag2.testcases.TestCase2">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:fr.ag2.testcases.TestCase2@3d5c822d]" name="openBrowser" is-config="true" duration-ms="11127" started-at="2020-10-11T14:18:13 CEST" finished-at="2020-10-11T14:18:24 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:fr.ag2.testcases.TestCase2@3d5c822d]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2020-10-11T14:18:24 CEST" finished-at="2020-10-11T14:18:24 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void fr.ag2.testcases.TestCase2.loginTest2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTest2()[pri:0, instance:fr.ag2.testcases.TestCase2@3d5c822d]" name="loginTest2" duration-ms="6801" started-at="2020-10-11T14:18:24 CEST" finished-at="2020-10-11T14:18:31 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:fr.ag2.testcases.TestCase2@3d5c822d]" name="tearDown" is-config="true" duration-ms="778" started-at="2020-10-11T14:18:31 CEST" finished-at="2020-10-11T14:18:32 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- fr.ag2.testcases.TestCase2 -->
+      <class name="fr.ag2.testcases.TestCase">
+        <test-method status="PASS" signature="setUpFramework()[pri:0, instance:fr.ag2.testcases.TestCase@3c73951]" name="setUpFramework" is-config="true" duration-ms="15" started-at="2020-10-11T14:17:51 CEST" finished-at="2020-10-11T14:17:51 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpFramework -->
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:fr.ag2.testcases.TestCase@3c73951]" name="openBrowser" is-config="true" duration-ms="11662" started-at="2020-10-11T14:17:51 CEST" finished-at="2020-10-11T14:18:02 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:fr.ag2.testcases.TestCase@3c73951]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2020-10-11T14:18:02 CEST" finished-at="2020-10-11T14:18:02 CEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void fr.ag2.testcases.TestCase.loginTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:fr.ag2.testcases.TestCase@3c73951]" name="loginTest" duration-ms="9920" started-at="2020-10-11T14:18:02 CEST" finished-at="2020-10-11T14:18:12 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:fr.ag2.testcases.TestCase@3c73951]" name="tearDown" is-config="true" duration-ms="930" started-at="2020-10-11T14:18:12 CEST" finished-at="2020-10-11T14:18:13 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- fr.ag2.testcases.TestCase -->
+    </test> <!-- End to end suite -->
+  </suite> <!-- Regression Suite -->
+</testng-results>

@@ -1,0 +1,20 @@
+[logs/firefox INFO ] 2020-10-08 19:30:40.738 TestCase:110 - log path: logs/firefox
+[logs/firefox INFO ] 2020-10-08 19:30:48.133 TestCase:177 - Create driver instance as Gecko driver !!!
+[logs/firefox INFO ] 2020-10-08 19:30:54.304 TestCase:22 - 
+****** starting test:loginTest******
+
+[logs/firefox INFO ] 2020-10-08 19:30:56.009 ZohoHomePage:222 - Clicking on : Login link
+[logs/firefox INFO ] 2020-10-08 19:30:56.192 ZohoLoginPage:230 - Typing in : Email entered the value as : bdia.sne@gmail.com
+[logs/firefox INFO ] 2020-10-08 19:30:56.557 ZohoLoginPage:222 - Clicking on : Next Btn
+[logs/firefox INFO ] 2020-10-08 19:30:58.635 ZohoLoginPage:230 - Typing in : PassWord entered the value as : gdhjqsgdhjq
+[logs/firefox INFO ] 2020-10-08 19:31:01.367 TestCase:240 - Test completed succesfully !!!
+[logs/firefox INFO ] 2020-10-08 19:39:57.892 TestCase:110 - log path: logs/firefox
+[logs/firefox INFO ] 2020-10-08 19:40:05.330 TestCase:177 - Create driver instance as Gecko driver !!!
+[logs/firefox INFO ] 2020-10-08 19:40:09.544 TestCase:21 - 
+****** starting test:loginTest******
+
+[logs/firefox INFO ] 2020-10-08 19:40:11.167 ZohoHomePage:222 - Clicking on : Login link
+[logs/firefox INFO ] 2020-10-08 19:40:11.469 ZohoLoginPage:230 - Typing in : Email entered the value as : bdia.sne@gmail.com
+[logs/firefox INFO ] 2020-10-08 19:40:11.847 ZohoLoginPage:222 - Clicking on : Next Btn
+[logs/firefox INFO ] 2020-10-08 19:40:14.014 ZohoLoginPage:230 - Typing in : PassWord entered the value as : gdhjqsgdhjq
+[logs/firefox INFO ] 2020-10-08 19:40:18.747 TestCase:240 - Test completed succesfully !!!

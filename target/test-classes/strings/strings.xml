@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Home page txt -->
+    <string name="test">CECI EST UN TEST</string>
+    <string name="test2">CECI EST UN SECOND TEST</string>
+
+<!-- Product Page txt -->    
+    <string name=""></string>
+    <string name=""></string>
+    
+<!-- Landing page txt -->    
+    <string name=""></string>
+    <string name=""></string>
+	<string name=""></string>
+</resources>

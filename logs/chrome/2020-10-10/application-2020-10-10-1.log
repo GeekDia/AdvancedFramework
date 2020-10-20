@@ -1,0 +1,117 @@
+[logs/chrome INFO ] 2020-10-10 18:27:18.266 TestCase:111 - log path: logs/chrome
+[logs/chrome INFO ] 2020-10-10 18:27:23.585 TestCase:169 - Create driver instance as chrome driver !!!
+[logs/chrome INFO ] 2020-10-10 18:27:28.287 TestCase:21 - 
+****** starting test:loginTest******
+
+[logs/chrome INFO ] 2020-10-10 18:27:33.920 ZohoHomePage:223 - Clicking on : Login link
+[logs/chrome INFO ] 2020-10-10 18:27:34.474 ZohoLoginPage:231 - Typing in : Email entered the value as : bdia.sne@gmail.com
+[logs/chrome INFO ] 2020-10-10 18:27:34.722 ZohoLoginPage:223 - Clicking on : Next Btn
+[logs/chrome INFO ] 2020-10-10 18:27:36.843 ZohoLoginPage:231 - Typing in : PassWord entered the value as : gdhjqsgdhjq
+[logs/chrome INFO ] 2020-10-10 18:27:38.968 TestCase:241 - Test completed succesfully !!!
+[logs/chrome INFO ] 2020-10-10 20:06:32.996 TestCase:134 - log path: logs/chrome
+[logs/chrome INFO ] 2020-10-10 20:06:36.630 TestCase:197 - Create driver instance as chrome driver !!!
+[logs/chrome INFO ] 2020-10-10 20:06:40.633 TestCase:21 - 
+****** starting test:loginTest******
+
+[logs/chrome INFO ] 2020-10-10 20:06:45.204 ZohoHomePage:251 - Clicking on : Login link
+[logs/chrome INFO ] 2020-10-10 20:06:45.945 ZohoLoginPage:259 - Typing in : Email entered the value as : bdia.sne@gmail.com
+[logs/chrome INFO ] 2020-10-10 20:06:46.253 ZohoLoginPage:251 - Clicking on : Next Btn
+[logs/chrome INFO ] 2020-10-10 20:06:48.408 ZohoLoginPage:259 - Typing in : PassWord entered the value as : gdhjqsgdhjq
+[logs/chrome INFO ] 2020-10-10 20:06:50.579 TestCase:269 - Test completed succesfully !!!
+[logs/chrome INFO ] 2020-10-10 20:12:02.981 TestCase:134 - log path: logs/chrome
+[logs/chrome INFO ] 2020-10-10 20:12:05.685 TestCase:197 - Create driver instance as chrome driver !!!
+[logs/chrome INFO ] 2020-10-10 20:12:09.445 TestCase:21 - 
+****** starting test:loginTest******
+
+[logs/chrome INFO ] 2020-10-10 20:12:13.612 ZohoHomePage:251 - Clicking on : Login link
+[logs/chrome INFO ] 2020-10-10 20:12:14.144 ZohoLoginPage:259 - Typing in : Email entered the value as : bdia.sne@gmail.com
+[logs/chrome INFO ] 2020-10-10 20:12:14.630 ZohoLoginPage:251 - Clicking on : Next Btn
+[logs/chrome INFO ] 2020-10-10 20:12:16.800 ZohoLoginPage:259 - Typing in : PassWord entered the value as : gdhjqsgdhjq
+[logs/chrome INFO ] 2020-10-10 20:12:18.974 TestCase:269 - Test completed succesfully !!!
+[logs/chrome INFO ] 2020-10-10 20:31:35.302 TestCase:134 - log path: logs/chrome
+[logs/chrome INFO ] 2020-10-10 20:31:38.069 TestCase:197 - Create driver instance as chrome driver !!!
+[logs/chrome INFO ] 2020-10-10 20:31:42.014 TestCase:21 - 
+****** starting test:loginTest******
+
+[logs/chrome INFO ] 2020-10-10 20:31:47.190 ZohoHomePage:251 - Clicking on : Login link
+[logs/chrome INFO ] 2020-10-10 20:31:48.088 ZohoLoginPage:259 - Typing in : Email entered the value as : bdia.sne@gmail.com
+[logs/chrome INFO ] 2020-10-10 20:31:48.817 ZohoLoginPage:251 - Clicking on : Next Btn
+[logs/chrome INFO ] 2020-10-10 20:31:51.024 ZohoLoginPage:259 - Typing in : PassWord entered the value as : gdhjqsgdhjq
+[logs/chrome INFO ] 2020-10-10 20:31:53.139 TestCase:269 - Test completed succesfully !!!
+[logs/chrome INFO ] 2020-10-10 20:34:54.865 TestCase:134 - log path: logs/chrome
+[logs/chrome INFO ] 2020-10-10 20:34:58.076 TestCase:197 - Create driver instance as chrome driver !!!
+[logs/chrome INFO ] 2020-10-10 20:35:02.197 TestCase:21 - 
+****** starting test:loginTest******
+
+[logs/chrome INFO ] 2020-10-10 20:35:07.477 ZohoHomePage:251 - Clicking on : Login link
+[logs/chrome INFO ] 2020-10-10 20:35:08.381 ZohoLoginPage:259 - Typing in : Email entered the value as : bdia.sne@gmail.com
+[logs/chrome INFO ] 2020-10-10 20:35:08.826 ZohoLoginPage:251 - Clicking on : Next Btn
+[logs/chrome INFO ] 2020-10-10 20:35:10.938 ZohoLoginPage:259 - Typing in : PassWord entered the value as : gdhjqsgdhjq
+[logs/chrome INFO ] 2020-10-10 20:35:13.046 TestCase:269 - Test completed succesfully !!!
+[logs/chrome INFO ] 2020-10-10 20:37:29.547 TestCase:137 - log path: logs/chrome
+[logs/chrome INFO ] 2020-10-10 20:37:32.526 TestCase:200 - Create driver instance as chrome driver !!!
+[logs/chrome INFO ] 2020-10-10 20:37:36.062 TestCase:21 - 
+****** starting test:loginTest******
+
+[logs/chrome INFO ] 2020-10-10 20:37:40.285 ZohoHomePage:254 - Clicking on : Login link
+[logs/chrome INFO ] 2020-10-10 20:37:40.817 ZohoLoginPage:262 - Typing in : Email entered the value as : bdia.sne@gmail.com
+[logs/chrome INFO ] 2020-10-10 20:37:41.173 ZohoLoginPage:254 - Clicking on : Next Btn
+[logs/chrome INFO ] 2020-10-10 20:37:43.319 ZohoLoginPage:262 - Typing in : PassWord entered the value as : gdhjqsgdhjq
+[logs/chrome INFO ] 2020-10-10 20:37:45.433 TestCase:272 - Test completed succesfully !!!
+[logs/chrome INFO ] 2020-10-10 20:40:04.579 TestCase:133 - log path: logs/chrome
+[logs/chrome INFO ] 2020-10-10 20:40:07.125 TestCase:196 - Create driver instance as chrome driver !!!
+[logs/chrome INFO ] 2020-10-10 20:40:10.492 TestCase:21 - 
+****** starting test:loginTest******
+
+[logs/chrome INFO ] 2020-10-10 20:40:14.326 ZohoHomePage:250 - Clicking on : Login link
+[logs/chrome INFO ] 2020-10-10 20:40:14.972 ZohoLoginPage:258 - Typing in : Email entered the value as : bdia.sne@gmail.com
+[logs/chrome INFO ] 2020-10-10 20:40:15.549 ZohoLoginPage:250 - Clicking on : Next Btn
+[logs/chrome INFO ] 2020-10-10 20:40:17.763 ZohoLoginPage:258 - Typing in : PassWord entered the value as : gdhjqsgdhjq
+[logs/chrome INFO ] 2020-10-10 20:40:19.918 TestCase:268 - Test completed succesfully !!!
+[logs/chrome INFO ] 2020-10-10 20:44:32.299 TestCase:133 - log path: logs/chrome
+[logs/chrome INFO ] 2020-10-10 20:44:35.027 TestCase:196 - Create driver instance as chrome driver !!!
+[logs/chrome INFO ] 2020-10-10 20:44:38.033 TestCase:22 - 
+****** starting test:loginTest******
+
+[logs/chrome INFO ] 2020-10-10 20:44:42.381 ZohoHomePage:250 - Clicking on : Login link
+[logs/chrome INFO ] 2020-10-10 20:44:42.985 ZohoLoginPage:258 - Typing in : Email entered the value as : bdia.sne@gmail.com
+[logs/chrome INFO ] 2020-10-10 20:44:43.289 ZohoLoginPage:250 - Clicking on : Next Btn
+[logs/chrome INFO ] 2020-10-10 20:44:45.458 ZohoLoginPage:258 - Typing in : PassWord entered the value as : gdhjqsgdhjq
+[logs/chrome INFO ] 2020-10-10 20:44:48.019 TestCase:268 - Test completed succesfully !!!
+[logs/chrome INFO ] 2020-10-10 20:47:33.282 TestCase:133 - log path: logs/chrome
+[logs/chrome INFO ] 2020-10-10 20:47:35.719 TestCase:196 - Create driver instance as chrome driver !!!
+[logs/chrome INFO ] 2020-10-10 20:47:39.095 TestCase:22 - 
+****** starting test:loginTest******
+
+[logs/chrome INFO ] 2020-10-10 20:47:43.128 ZohoHomePage:250 - Clicking on : Login link
+[logs/chrome INFO ] 2020-10-10 20:47:43.963 ZohoLoginPage:258 - Typing in : Email entered the value as : bdia.sne@gmail.com
+[logs/chrome INFO ] 2020-10-10 20:47:44.281 ZohoLoginPage:250 - Clicking on : Next Btn
+[logs/chrome INFO ] 2020-10-10 20:47:46.416 ZohoLoginPage:258 - Typing in : PassWord entered the value as : gdhjqsgdhjq
+[logs/chrome INFO ] 2020-10-10 20:47:48.973 TestCase:268 - Test completed succesfully !!!
+[logs/chrome INFO ] 2020-10-10 20:49:42.239 TestCase:133 - log path: logs/chrome
+[logs/chrome INFO ] 2020-10-10 20:49:45.354 TestCase:196 - Create driver instance as chrome driver !!!
+[logs/chrome INFO ] 2020-10-10 20:49:49.314 TestCase:22 - 
+****** starting test:loginTest******
+
+[logs/chrome INFO ] 2020-10-10 20:49:54.704 ZohoHomePage:250 - Clicking on : Login link
+[logs/chrome INFO ] 2020-10-10 20:49:55.655 ZohoLoginPage:258 - Typing in : Email entered the value as : bdia.sne@gmail.com
+[logs/chrome INFO ] 2020-10-10 20:49:56.013 ZohoLoginPage:250 - Clicking on : Next Btn
+[logs/chrome INFO ] 2020-10-10 20:49:58.130 ZohoLoginPage:258 - Typing in : PassWord entered the value as : gdhjqsgdhjq
+[logs/chrome INFO ] 2020-10-10 20:50:00.300 TestCase:268 - Test completed succesfully !!!
+[logs/chrome INFO ] 2020-10-10 21:01:22.618 TestCase:133 - log path: logs/chrome
+[logs/chrome INFO ] 2020-10-10 21:01:25.364 TestCase:196 - Create driver instance as chrome driver !!!
+[logs/chrome INFO ] 2020-10-10 21:01:29.225 TestCase:22 - 
+****** starting test:loginTest******
+
+[logs/chrome INFO ] 2020-10-10 21:01:33.862 ZohoHomePage:250 - Clicking on : Login link
+[logs/chrome INFO ] 2020-10-10 21:01:34.633 ZohoLoginPage:258 - Typing in : Email entered the value as : bdia.sne@gmail.com
+[logs/chrome INFO ] 2020-10-10 21:01:34.986 ZohoLoginPage:250 - Clicking on : Next Btn
+[logs/chrome INFO ] 2020-10-10 21:01:37.093 ZohoLoginPage:258 - Typing in : PassWord entered the value as : gdhjqsgdhjq
+[logs/chrome INFO ] 2020-10-10 21:01:39.227 TestCase:268 - Test completed succesfully !!!
+[logs/chrome INFO ] 2020-10-10 21:01:39.229 TestCase2:133 - log path: logs/chrome
+[logs/chrome INFO ] 2020-10-10 21:01:41.249 TestCase2:196 - Create driver instance as chrome driver !!!
+[logs/chrome INFO ] 2020-10-10 21:01:45.662 TestCase2:29 - 
+****** starting test:loginTest2******
+
+[logs/chrome INFO ] 2020-10-10 21:01:46.191 ZohoHomePage:250 - Clicking on : Login link
+[logs/chrome INFO ] 2020-10-10 21:01:56.810 TestCase2:268 - Test completed succesfully !!!

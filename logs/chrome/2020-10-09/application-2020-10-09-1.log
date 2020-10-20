@@ -1,0 +1,5 @@
+[logs/chrome INFO ] 2020-10-09 19:16:51.336 TestCase:111 - log path: logs/chrome
+[logs/chrome INFO ] 2020-10-09 19:16:58.260 TestCase:169 - Create driver instance as chrome driver !!!
+[logs/chrome INFO ] 2020-10-09 19:19:07.088 TestCase:21 - 
+****** starting test:loginTest******
+
